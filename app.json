@@ -6,16 +6,16 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/mrismanaziz/File-Sharing-Man",
+  "repository": "https://github.com/dakaabsy/File-Sharing-Man",
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "5020426199:AAHRuqYqfU5zv48mN-ZwuGw-dUySD2dKJ6o"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mrismanaziz"
+      "value": "xkhnz"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -27,11 +27,11 @@
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "16347352"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "665cbe927f13e3f576d894bdd92ae370"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
